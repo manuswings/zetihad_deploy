@@ -1,0 +1,11 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="etihad.fiori.deployment.etihad.fiori.deployment.controller.HomeView" displayBlock="true">
+    <Page id="page" title="{i18n>title}" titleAlignment="Center">
+    <content>
+        <HBox width="100%" id="hbox0" alignItems="Center" justifyContent="Center" alignContent="Start">
+            <items>
+                <Text xmlns="sap.m" text="You're application has been deploy to the Etihad Development system" id="text3"/>
+            </items>
+        </HBox>
+    </content>
+    </Page>
+</mvc:View>
